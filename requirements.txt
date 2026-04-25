@@ -1,0 +1,25 @@
+# Privacy-Preserving RAG — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# ── RAG Frameworks ────────────────────────────────────────────────
+hipporag
+raganything
+
+# ── HuggingFace Datasets ──────────────────────────────────────────
+datasets>=2.14.0
+huggingface_hub>=0.20.0
+
+# ── LLM Client (connects to local Ollama) ─────────────────────────
+openai>=1.0.0
+
+# ── PII Detection ─────────────────────────────────────────────────
+spacy>=3.7.0
+# After install run: python -m spacy download en_core_web_lg
+
+# ── Visualisation ─────────────────────────────────────────────────
+matplotlib>=3.7.0
+numpy>=1.24.0
+
+# ── Utilities ─────────────────────────────────────────────────────
+colorama>=0.4.6
+tqdm>=4.65.0

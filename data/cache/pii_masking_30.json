@@ -1,0 +1,182 @@
+[
+  {
+    "id": "pii_0000",
+    "source_text": "A student's assessment was found on device bearing IMEI: 06-184755-866851-3. The document falls under the various topics discussed in our Optimization curriculum. Can you please collect it?",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0001",
+    "source_text": "Dear Omer, as per our records, your license 78B5R2MVFAHJ48500 is still registered in our records for access to the educational tools. Please feedback on it's operability.",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0002",
+    "source_text": "Kattie could you please share your recomndations about vegetarian diet for 72 old Intersex person with 158centimeters?",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0003",
+    "source_text": "Emergency supplies in 16356 need a refill. Use 5890724654311332 to pay for them.",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0004",
+    "source_text": "The 88 old child at 5862, has showcased an unusual ability to remember and recite passwords, with Y2rWliOhf8Ir being most repeated.",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0005",
+    "source_text": "Your recent hospital data recorded on 29/12/1957 regarding chronic disease management has been encrypted with IPv6 edaf:fd8f:e1e8:cfec:8bab:1afd:6aad:550c for enhanced privacy.",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0006",
+    "source_text": "Dear Trans male, Let's clear this misunderstanding. We never send an email asking for your E5_N8G2xWM6D. If you get one, it's not from us. Please secure your account. If you already gave out your password, change it immediately.",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0007",
+    "source_text": "The wellness portal is accessible at [-71.6702,-107.6572]. With numerous wellness tracks suitable for everyone in the family, enrol now! Contact us at Mozilla/5.0 (Macintosh; PPC Mac OS X 10.7.5; rv:12.5) Gecko/20100101 Firefox/12.5.9 for further details.",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0008",
+    "source_text": "Carleton, the new interactive educational tools are set to arrive at [-38.9302,113.5422]. Your password for accessing online content: yZqd7gHyZq91.",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0009",
+    "source_text": "1. Customer query received at 10:18 PM from Human Group Coordinator of Cleveland based firm. The customer's email is Emilie_Beatty53@hotmail.com. Use our account number 63652332 for all financial exchanges. For personal discussions, ensure privacy with PIN - 8824 and EYECOLOR - Eye color: Brown.",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0010",
+    "source_text": "I'm Garrick Murray. I will be picking up the test results for patient Leuschke. We've been assigned number 2191941526453503 for identification.",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0011",
+    "source_text": "\"Dear Carmen, As our National Brand Architect, we need you to conduct an internal audit of our Usability operations, specifically focused on our compliance with Administrative Law. Please use the data from the 109.4.61.213 and 4d36:f8ad:4ebd:1bff:c5eb:62aa:b4d7:dddf IP addresses in the investigation.\"",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0012",
+    "source_text": "Cardiac consult reminder for Stephen on 10/03/1976 at 4:40 AM. Commute to our clinic at S Broadway 61915, Port Diegostead near [-56.5612,-68.9245].",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0013",
+    "source_text": "Ms.North, our office in Essex confirmed your visit with health psychologist at 10:02 AM. Your file with ID 04-558619-832604-8 is updated.",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0014",
+    "source_text": "Miss Emory, we have forwarded your credentials to the Orthopedics division. They are expecting your arrival tomorrow.",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0015",
+    "source_text": "To facilitate your payments for treatment, the hospital accepts transactions from cards issued by discover bearing numbers like 2948447876023997.",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0016",
+    "source_text": "I've noticed some unusual activities related to the credit card number 6381973478101820. The transactions are coming from the IP address 215.114.180.213. As our Investor Program Supervisor, could you please investigate?",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0017",
+    "source_text": "The location for the parent-teacher meeting has been moved to Veterans Memorial Highway. Please use the following GPS coordinates [41.948,-53.5323] for exact navigation.",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0018",
+    "source_text": "Appointment reminder for Rebeca on 16/11/1983, paid via mastercard number ending in 5982215161172252.",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0019",
+    "source_text": "'Curriculum development that suits the modern Research' is our new project. Aimed at equipping students with the much needed digital skills. Module updates will be via the specified 250.59.196.86 address.",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0020",
+    "source_text": "Dr. Feeney, we'd like to share a study on Barnstable Town's education trends. It'll be an interesting reference point. I'll email it, Jana_Collier@hotmail.com, with intriguing insights along with the data.",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0021",
+    "source_text": "For immediate attention: Patient Johnson, Cassie August is recommended to undergo a change in her psychopharmacological regimen.",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0022",
+    "source_text": "Connect with Harvey to discuss ways how policy reform can revolutionize education in Uri.",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0023",
+    "source_text": "Our body, like a car, needs proper care. Your consistent check-ups, diagnosis, and medical history including '4EBV86HZXGGE66625' and 'AU29QFT' provide unique identification to our health.",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0024",
+    "source_text": "Our Two-spirit centric nutrition sessions are designed to accommodate diet needs based on your February 4, 1909.",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0025",
+    "source_text": "Hello, A higher incidence of viral illness is spreading in the Southwest region - particularly in the Male gender. Need to request additional funds, budget proposal in the making.",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0026",
+    "source_text": "Hello Mr.Kerluke, We received your last payment, we noticed that the last four digits of your card are 0760991685235721 on our end. Please contact our office if this information is incorrect.",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0027",
+    "source_text": "Call our Facilitator at 4 PM over 152.58.179.27 if you spot any inconsistencies in the report.",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0028",
+    "source_text": "\"Notice for IQD payment for the upcoming legal education session. The amount charged will be \u00a30.001b. You can process the payment with your credit card associated with number 6259724424541296.\"",
+    "masked_text": "",
+    "pii_entities": []
+  },
+  {
+    "id": "pii_0029",
+    "source_text": "The regulation documents are stored in the Checking Account. Could you access them using the password h4yW2I4iydWh and send them over to our North West England branch?",
+    "masked_text": "",
+    "pii_entities": []
+  }
+]

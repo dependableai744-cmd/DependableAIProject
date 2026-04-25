@@ -1,0 +1,27 @@
+[
+  {
+    "original": "A student's assessment was found on device bearing IMEI: 06-184755-866851-3. The document falls under the various topics discussed in our Optimization curriculum. Can you please collect it?",
+    "masked": "A student's assessment was found on device bearing IMEI: 06-184755-866851-3. The document falls under the various topics discussed in our Optimization curriculum. Can you please collect it?",
+    "pii_count": 0
+  },
+  {
+    "original": "Dear Omer, as per our records, your license 78B5R2MVFAHJ48500 is still registered in our records for access to the educational tools. Please feedback on it's operability.",
+    "masked": "[PERSON_REDACTED], as per our records, your license 78B5R2MVFAHJ48500 is still registered in our records for access to the educational tools. Please feedback on it's operability.",
+    "pii_count": 1
+  },
+  {
+    "original": "Kattie could you please share your recomndations about vegetarian diet for 72 old Intersex person with 158centimeters?",
+    "masked": "Kattie could you please share your recomndations about vegetarian diet for 72 old Intersex person with 158centimeters?",
+    "pii_count": 0
+  },
+  {
+    "original": "Emergency supplies in 16356 need a refill. Use 5890724654311332 to pay for them.",
+    "masked": "Emergency supplies in 16356 need a refill. Use [CREDIT_CARD_REDACTED] to pay for them.",
+    "pii_count": 1
+  },
+  {
+    "original": "The 88 old child at 5862, has showcased an unusual ability to remember and recite passwords, with Y2rWliOhf8Ir being most repeated.",
+    "masked": "The 88 old child at 5862, has showcased an unusual ability to remember and recite passwords, with Y2rWliOhf8Ir being most repeated.",
+    "pii_count": 0
+  }
+]

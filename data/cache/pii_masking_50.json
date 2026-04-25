@@ -1,0 +1,952 @@
+[
+  {
+    "id": "pii_0000",
+    "source_text": "A student's assessment was found on device bearing IMEI: 06-184755-866851-3. The document falls under the various topics discussed in our Optimization curriculum. Can you please collect it?",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "PHONEIMEI",
+        "value": "06-184755-866851-3"
+      },
+      {
+        "type": "JOBAREA",
+        "value": "Optimization"
+      }
+    ]
+  },
+  {
+    "id": "pii_0001",
+    "source_text": "Dear Omer, as per our records, your license 78B5R2MVFAHJ48500 is still registered in our records for access to the educational tools. Please feedback on it's operability.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "FIRSTNAME",
+        "value": "Omer"
+      },
+      {
+        "type": "VEHICLEVIN",
+        "value": "78B5R2MVFAHJ48500"
+      }
+    ]
+  },
+  {
+    "id": "pii_0002",
+    "source_text": "Kattie could you please share your recomndations about vegetarian diet for 72 old Intersex person with 158centimeters?",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "FIRSTNAME",
+        "value": "Kattie"
+      },
+      {
+        "type": "AGE",
+        "value": "72"
+      },
+      {
+        "type": "GENDER",
+        "value": "Intersex person"
+      },
+      {
+        "type": "HEIGHT",
+        "value": "158centimeters"
+      }
+    ]
+  },
+  {
+    "id": "pii_0003",
+    "source_text": "Emergency supplies in 16356 need a refill. Use 5890724654311332 to pay for them.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "BUILDINGNUMBER",
+        "value": "16356"
+      },
+      {
+        "type": "MASKEDNUMBER",
+        "value": "5890724654311332"
+      }
+    ]
+  },
+  {
+    "id": "pii_0004",
+    "source_text": "The 88 old child at 5862, has showcased an unusual ability to remember and recite passwords, with Y2rWliOhf8Ir being most repeated.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "AGE",
+        "value": "88"
+      },
+      {
+        "type": "BUILDINGNUMBER",
+        "value": "5862"
+      },
+      {
+        "type": "PASSWORD",
+        "value": "Y2rWliOhf8Ir"
+      }
+    ]
+  },
+  {
+    "id": "pii_0005",
+    "source_text": "Your recent hospital data recorded on 29/12/1957 regarding chronic disease management has been encrypted with IPv6 edaf:fd8f:e1e8:cfec:8bab:1afd:6aad:550c for enhanced privacy.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "DOB",
+        "value": "29/12/1957"
+      },
+      {
+        "type": "IPV6",
+        "value": "edaf:fd8f:e1e8:cfec:8bab:1afd:6aad:550c"
+      }
+    ]
+  },
+  {
+    "id": "pii_0006",
+    "source_text": "Dear Trans male, Let's clear this misunderstanding. We never send an email asking for your E5_N8G2xWM6D. If you get one, it's not from us. Please secure your account. If you already gave out your password, change it immediately.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "GENDER",
+        "value": "Trans male"
+      },
+      {
+        "type": "PASSWORD",
+        "value": "E5_N8G2xWM6D"
+      }
+    ]
+  },
+  {
+    "id": "pii_0007",
+    "source_text": "The wellness portal is accessible at [-71.6702,-107.6572]. With numerous wellness tracks suitable for everyone in the family, enrol now! Contact us at Mozilla/5.0 (Macintosh; PPC Mac OS X 10.7.5; rv:12.5) Gecko/20100101 Firefox/12.5.9 for further details.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "NEARBYGPSCOORDINATE",
+        "value": "[-71.6702,-107.6572]"
+      },
+      {
+        "type": "USERAGENT",
+        "value": "Mozilla/5.0 (Macintosh; PPC Mac OS X 10.7.5; rv:12.5) Gecko/20100101 Firefox/12.5.9"
+      }
+    ]
+  },
+  {
+    "id": "pii_0008",
+    "source_text": "Carleton, the new interactive educational tools are set to arrive at [-38.9302,113.5422]. Your password for accessing online content: yZqd7gHyZq91.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "FIRSTNAME",
+        "value": "Carleton"
+      },
+      {
+        "type": "NEARBYGPSCOORDINATE",
+        "value": "[-38.9302,113.5422]"
+      },
+      {
+        "type": "PASSWORD",
+        "value": "yZqd7gHyZq91"
+      }
+    ]
+  },
+  {
+    "id": "pii_0009",
+    "source_text": "1. Customer query received at 10:18 PM from Human Group Coordinator of Cleveland based firm. The customer's email is Emilie_Beatty53@hotmail.com. Use our account number 63652332 for all financial exchanges. For personal discussions, ensure privacy with PIN - 8824 and EYECOLOR - Eye color: Brown.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "TIME",
+        "value": "10:18 PM"
+      },
+      {
+        "type": "JOBTITLE",
+        "value": "Human Group Coordinator"
+      },
+      {
+        "type": "COUNTY",
+        "value": "Cleveland"
+      },
+      {
+        "type": "EMAIL",
+        "value": "Emilie_Beatty53@hotmail.com"
+      },
+      {
+        "type": "ACCOUNTNUMBER",
+        "value": "63652332"
+      },
+      {
+        "type": "PIN",
+        "value": "8824"
+      },
+      {
+        "type": "EYECOLOR",
+        "value": "Eye color: Brown"
+      }
+    ]
+  },
+  {
+    "id": "pii_0010",
+    "source_text": "I'm Garrick Murray. I will be picking up the test results for patient Leuschke. We've been assigned number 2191941526453503 for identification.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "FIRSTNAME",
+        "value": "Garrick"
+      },
+      {
+        "type": "LASTNAME",
+        "value": "Murray"
+      },
+      {
+        "type": "LASTNAME",
+        "value": "Leuschke"
+      },
+      {
+        "type": "MASKEDNUMBER",
+        "value": "2191941526453503"
+      }
+    ]
+  },
+  {
+    "id": "pii_0011",
+    "source_text": "\"Dear Carmen, As our National Brand Architect, we need you to conduct an internal audit of our Usability operations, specifically focused on our compliance with Administrative Law. Please use the data from the 109.4.61.213 and 4d36:f8ad:4ebd:1bff:c5eb:62aa:b4d7:dddf IP addresses in the investigation.\"",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "FIRSTNAME",
+        "value": "Carmen"
+      },
+      {
+        "type": "JOBTITLE",
+        "value": "National Brand Architect"
+      },
+      {
+        "type": "JOBAREA",
+        "value": "Usability"
+      },
+      {
+        "type": "IPV4",
+        "value": "109.4.61.213"
+      },
+      {
+        "type": "IPV6",
+        "value": "4d36:f8ad:4ebd:1bff:c5eb:62aa:b4d7:dddf"
+      }
+    ]
+  },
+  {
+    "id": "pii_0012",
+    "source_text": "Cardiac consult reminder for Stephen on 10/03/1976 at 4:40 AM. Commute to our clinic at S Broadway 61915, Port Diegostead near [-56.5612,-68.9245].",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "FIRSTNAME",
+        "value": "Stephen"
+      },
+      {
+        "type": "DATE",
+        "value": "10/03/1976"
+      },
+      {
+        "type": "TIME",
+        "value": "4:40 AM"
+      },
+      {
+        "type": "STREET",
+        "value": "S Broadway"
+      },
+      {
+        "type": "BUILDINGNUMBER",
+        "value": "61915"
+      },
+      {
+        "type": "CITY",
+        "value": "Port Diegostead"
+      },
+      {
+        "type": "NEARBYGPSCOORDINATE",
+        "value": "[-56.5612,-68.9245]"
+      }
+    ]
+  },
+  {
+    "id": "pii_0013",
+    "source_text": "Ms.North, our office in Essex confirmed your visit with health psychologist at 10:02 AM. Your file with ID 04-558619-832604-8 is updated.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "PREFIX",
+        "value": "Ms."
+      },
+      {
+        "type": "MIDDLENAME",
+        "value": "North"
+      },
+      {
+        "type": "COUNTY",
+        "value": "Essex"
+      },
+      {
+        "type": "TIME",
+        "value": "10:02 AM"
+      },
+      {
+        "type": "PHONEIMEI",
+        "value": "04-558619-832604-8"
+      }
+    ]
+  },
+  {
+    "id": "pii_0014",
+    "source_text": "Miss Emory, we have forwarded your credentials to the Orthopedics division. They are expecting your arrival tomorrow.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "PREFIX",
+        "value": "Miss"
+      },
+      {
+        "type": "FIRSTNAME",
+        "value": "Emory"
+      }
+    ]
+  },
+  {
+    "id": "pii_0015",
+    "source_text": "To facilitate your payments for treatment, the hospital accepts transactions from cards issued by discover bearing numbers like 2948447876023997.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "CREDITCARDISSUER",
+        "value": "discover"
+      },
+      {
+        "type": "CREDITCARDNUMBER",
+        "value": "2948447876023997"
+      }
+    ]
+  },
+  {
+    "id": "pii_0016",
+    "source_text": "I've noticed some unusual activities related to the credit card number 6381973478101820. The transactions are coming from the IP address 215.114.180.213. As our Investor Program Supervisor, could you please investigate?",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "CREDITCARDNUMBER",
+        "value": "6381973478101820"
+      },
+      {
+        "type": "IPV4",
+        "value": "215.114.180.213"
+      },
+      {
+        "type": "JOBTITLE",
+        "value": "Investor Program Supervisor"
+      }
+    ]
+  },
+  {
+    "id": "pii_0017",
+    "source_text": "The location for the parent-teacher meeting has been moved to Veterans Memorial Highway. Please use the following GPS coordinates [41.948,-53.5323] for exact navigation.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "STREET",
+        "value": "Veterans Memorial Highway"
+      },
+      {
+        "type": "NEARBYGPSCOORDINATE",
+        "value": "[41.948,-53.5323]"
+      }
+    ]
+  },
+  {
+    "id": "pii_0018",
+    "source_text": "Appointment reminder for Rebeca on 16/11/1983, paid via mastercard number ending in 5982215161172252.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "FIRSTNAME",
+        "value": "Rebeca"
+      },
+      {
+        "type": "DOB",
+        "value": "16/11/1983"
+      },
+      {
+        "type": "CREDITCARDISSUER",
+        "value": "mastercard"
+      },
+      {
+        "type": "MASKEDNUMBER",
+        "value": "5982215161172252"
+      }
+    ]
+  },
+  {
+    "id": "pii_0019",
+    "source_text": "'Curriculum development that suits the modern Research' is our new project. Aimed at equipping students with the much needed digital skills. Module updates will be via the specified 250.59.196.86 address.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "JOBAREA",
+        "value": "Research"
+      },
+      {
+        "type": "IPV4",
+        "value": "250.59.196.86"
+      }
+    ]
+  },
+  {
+    "id": "pii_0020",
+    "source_text": "Dr. Feeney, we'd like to share a study on Barnstable Town's education trends. It'll be an interesting reference point. I'll email it, Jana_Collier@hotmail.com, with intriguing insights along with the data.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "PREFIX",
+        "value": "Dr."
+      },
+      {
+        "type": "LASTNAME",
+        "value": "Feeney"
+      },
+      {
+        "type": "CITY",
+        "value": "Barnstable Town"
+      },
+      {
+        "type": "EMAIL",
+        "value": "Jana_Collier@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": "pii_0021",
+    "source_text": "For immediate attention: Patient Johnson, Cassie August is recommended to undergo a change in her psychopharmacological regimen.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "LASTNAME",
+        "value": "Johnson"
+      },
+      {
+        "type": "FIRSTNAME",
+        "value": "Cassie"
+      },
+      {
+        "type": "MIDDLENAME",
+        "value": "August"
+      }
+    ]
+  },
+  {
+    "id": "pii_0022",
+    "source_text": "Connect with Harvey to discuss ways how policy reform can revolutionize education in Uri.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "FIRSTNAME",
+        "value": "Harvey"
+      },
+      {
+        "type": "STATE",
+        "value": "Uri"
+      }
+    ]
+  },
+  {
+    "id": "pii_0023",
+    "source_text": "Our body, like a car, needs proper care. Your consistent check-ups, diagnosis, and medical history including '4EBV86HZXGGE66625' and 'AU29QFT' provide unique identification to our health.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "VEHICLEVIN",
+        "value": "4EBV86HZXGGE66625"
+      },
+      {
+        "type": "VEHICLEVRM",
+        "value": "AU29QFT"
+      }
+    ]
+  },
+  {
+    "id": "pii_0024",
+    "source_text": "Our Two-spirit centric nutrition sessions are designed to accommodate diet needs based on your February 4, 1909.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "GENDER",
+        "value": "Two-spirit"
+      },
+      {
+        "type": "DOB",
+        "value": "February 4, 1909"
+      }
+    ]
+  },
+  {
+    "id": "pii_0025",
+    "source_text": "Hello, A higher incidence of viral illness is spreading in the Southwest region - particularly in the Male gender. Need to request additional funds, budget proposal in the making.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "ORDINALDIRECTION",
+        "value": "Southwest"
+      },
+      {
+        "type": "SEX",
+        "value": "Male"
+      }
+    ]
+  },
+  {
+    "id": "pii_0026",
+    "source_text": "Hello Mr.Kerluke, We received your last payment, we noticed that the last four digits of your card are 0760991685235721 on our end. Please contact our office if this information is incorrect.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "PREFIX",
+        "value": "Mr."
+      },
+      {
+        "type": "LASTNAME",
+        "value": "Kerluke"
+      },
+      {
+        "type": "MASKEDNUMBER",
+        "value": "0760991685235721"
+      }
+    ]
+  },
+  {
+    "id": "pii_0027",
+    "source_text": "Call our Facilitator at 4 PM over 152.58.179.27 if you spot any inconsistencies in the report.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "JOBTYPE",
+        "value": "Facilitator"
+      },
+      {
+        "type": "TIME",
+        "value": "4 PM"
+      },
+      {
+        "type": "IPV4",
+        "value": "152.58.179.27"
+      }
+    ]
+  },
+  {
+    "id": "pii_0028",
+    "source_text": "\"Notice for IQD payment for the upcoming legal education session. The amount charged will be \u00a30.001b. You can process the payment with your credit card associated with number 6259724424541296.\"",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "CURRENCYCODE",
+        "value": "IQD"
+      },
+      {
+        "type": "AMOUNT",
+        "value": "0.001b"
+      },
+      {
+        "type": "CREDITCARDNUMBER",
+        "value": "6259724424541296"
+      }
+    ]
+  },
+  {
+    "id": "pii_0029",
+    "source_text": "The regulation documents are stored in the Checking Account. Could you access them using the password h4yW2I4iydWh and send them over to our North West England branch?",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "ACCOUNTNAME",
+        "value": "Checking Account"
+      },
+      {
+        "type": "PASSWORD",
+        "value": "h4yW2I4iydWh"
+      },
+      {
+        "type": "STATE",
+        "value": "North West England"
+      }
+    ]
+  },
+  {
+    "id": "pii_0030",
+    "source_text": "Dear Branson, we've a potential security issue. Ensure users' sensitive details including 34EUu2QzxVkmBLo4anvhitwWwV1ux6vDW and 3CkiYCgdy1gmYJPwHjU2xjuLNtM7T are encrypted and kept safe.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "FIRSTNAME",
+        "value": "Branson"
+      },
+      {
+        "type": "BITCOINADDRESS",
+        "value": "34EUu2QzxVkmBLo4anvhitwWwV1ux6vDW"
+      },
+      {
+        "type": "LITECOINADDRESS",
+        "value": "3CkiYCgdy1gmYJPwHjU2xjuLNtM7T"
+      }
+    ]
+  },
+  {
+    "id": "pii_0031",
+    "source_text": "As Nurses, we often work the Southwest wing in shifts. Next week, I'll be on the Day shift, my extension is +004-57 515 8727.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "ORDINALDIRECTION",
+        "value": "Southwest"
+      },
+      {
+        "type": "PHONENUMBER",
+        "value": "+004-57 515 8727"
+      }
+    ]
+  },
+  {
+    "id": "pii_0032",
+    "source_text": "Jewel, our investigation revealed a breach of laws related to your data. Particularly, your 37-505230-892683-9 and 08:7a:81:2f:48:fd.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "FIRSTNAME",
+        "value": "Jewel"
+      },
+      {
+        "type": "PHONEIMEI",
+        "value": "37-505230-892683-9"
+      },
+      {
+        "type": "MAC",
+        "value": "08:7a:81:2f:48:fd"
+      }
+    ]
+  },
+  {
+    "id": "pii_0033",
+    "source_text": "Hello, we would like to initiate a payment to the psychology department. The amount is calculated in local currency, Rand. Please transfer it to IBAN JO30FXCH0053016004002590010078.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "CURRENCY",
+        "value": "Rand"
+      },
+      {
+        "type": "IBAN",
+        "value": "JO30FXCH0053016004002590010078"
+      }
+    ]
+  },
+  {
+    "id": "pii_0034",
+    "source_text": "According to Kuphal - Gislason's policy, the payment for tuition fee is accepted in Indian Rupee. Please verify and proceed accordingly.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "COMPANYNAME",
+        "value": "Kuphal - Gislason"
+      },
+      {
+        "type": "CURRENCYNAME",
+        "value": "Indian Rupee"
+      }
+    ]
+  },
+  {
+    "id": "pii_0035",
+    "source_text": "Our marketing strategy focuses on Cisgenders in Baden-W\u00fcrttemberg with IPs in the range of 192.234.138.111 and 41bd:5dec:8ee3:c6c0:026a:fa3f:8b18:febc. For further details, touch base at Opal_OConner@hotmail.com.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "GENDER",
+        "value": "Cisgender"
+      },
+      {
+        "type": "STATE",
+        "value": "Baden-W\u00fcrttemberg"
+      },
+      {
+        "type": "IPV4",
+        "value": "192.234.138.111"
+      },
+      {
+        "type": "IPV6",
+        "value": "41bd:5dec:8ee3:c6c0:026a:fa3f:8b18:febc"
+      },
+      {
+        "type": "EMAIL",
+        "value": "Opal_OConner@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": "pii_0036",
+    "source_text": "I need the latest update on assessment results. Please send the files to Valentine4@gmail.com. For your extra time, we'll offer you Kip 100,000 but please provide your \u043b\u0432 account details.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "EMAIL",
+        "value": "Valentine4@gmail.com"
+      },
+      {
+        "type": "CURRENCYNAME",
+        "value": "Kip"
+      },
+      {
+        "type": "CURRENCYSYMBOL",
+        "value": "\u043b\u0432"
+      }
+    ]
+  },
+  {
+    "id": "pii_0037",
+    "source_text": "Could you please provide your Green and 6' 4\" as it helps us in making our reports more accurate?",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "EYECOLOR",
+        "value": "Green"
+      },
+      {
+        "type": "HEIGHT",
+        "value": "6' 4\""
+      }
+    ]
+  },
+  {
+    "id": "pii_0038",
+    "source_text": "Calling for your Investment Account (number 48308813) statements as per recent tax law changes. These are essential for your next tax return. Also confirm transactions in kr998k. Call +390 599-968-1230 for queries.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "ACCOUNTNAME",
+        "value": "Investment Account"
+      },
+      {
+        "type": "ACCOUNTNUMBER",
+        "value": "48308813"
+      },
+      {
+        "type": "CURRENCYSYMBOL",
+        "value": "kr"
+      },
+      {
+        "type": "AMOUNT",
+        "value": "998k"
+      },
+      {
+        "type": "PHONENUMBER",
+        "value": "+390 599-968-1230"
+      }
+    ]
+  },
+  {
+    "id": "pii_0039",
+    "source_text": "Stevie, our credit card payment system has been updated. Please use card issued by visa for all future payments.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "FIRSTNAME",
+        "value": "Stevie"
+      },
+      {
+        "type": "CREDITCARDISSUER",
+        "value": "visa"
+      }
+    ]
+  },
+  {
+    "id": "pii_0040",
+    "source_text": "Could we schedule a meeting at 11:12 PM regarding the property in state Alaska with postal code 99578?",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "TIME",
+        "value": "11:12 PM"
+      },
+      {
+        "type": "STATE",
+        "value": "Alaska"
+      },
+      {
+        "type": "ZIPCODE",
+        "value": "99578"
+      }
+    ]
+  },
+  {
+    "id": "pii_0041",
+    "source_text": "Hi Hosea, can you confirm your SSN 479-13-8850 and DOB 11/43 for the ICU record? We have a slot in the Southwest wing. And if there's any changes in your personal info, REPORT IMMEDIATELY IN THE SYSTEM.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "FIRSTNAME",
+        "value": "Hosea"
+      },
+      {
+        "type": "SSN",
+        "value": "479-13-8850"
+      },
+      {
+        "type": "DOB",
+        "value": "11/43"
+      },
+      {
+        "type": "ORDINALDIRECTION",
+        "value": "Southwest"
+      }
+    ]
+  },
+  {
+    "id": "pii_0042",
+    "source_text": "\"Nels, the code you submitted for the networking assignment shows similarities with Abby's code, notably the part dealing with MAC db:c0:c1:05:bf:5d. Please clarify.\"",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "FIRSTNAME",
+        "value": "Nels"
+      },
+      {
+        "type": "FIRSTNAME",
+        "value": "Abby"
+      },
+      {
+        "type": "MAC",
+        "value": "db:c0:c1:05:bf:5d"
+      }
+    ]
+  },
+  {
+    "id": "pii_0043",
+    "source_text": "We noted several transactions made from your account 71573733 amounting to a total of 764,336.48Rufiyaa. Was this part of your departmental budget allocation for the organizational redesign project? Please confirm.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "ACCOUNTNUMBER",
+        "value": "71573733"
+      },
+      {
+        "type": "AMOUNT",
+        "value": "764,336.48"
+      },
+      {
+        "type": "CURRENCY",
+        "value": "Rufiyaa"
+      }
+    ]
+  },
+  {
+    "id": "pii_0044",
+    "source_text": "Hi team, I am facing some technical difficulties accessing our website https://rusty-sweater.org. Could anyone please look into the related IP addresses 2a53:8f40:3fcb:dea5:dfa6:8ca2:cf3b:e6ea and prevent any potential anomalies?",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "URL",
+        "value": "https://rusty-sweater.org"
+      },
+      {
+        "type": "IP",
+        "value": "2a53:8f40:3fcb:dea5:dfa6:8ca2:cf3b:e6ea"
+      }
+    ]
+  },
+  {
+    "id": "pii_0045",
+    "source_text": "As a reminder, the Mathematics Education conference is approaching. We're currently seeking vendors and sponsors. We appreciate any contribution made via Bitcoin at this address: 1wcy8u4zbKiZA4CANutQohXaN49EJmFioXJZ. Accommodations will be at Apt. 259 starting July 5, 2023",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "BITCOINADDRESS",
+        "value": "1wcy8u4zbKiZA4CANutQohXaN49EJmFioXJZ"
+      },
+      {
+        "type": "SECONDARYADDRESS",
+        "value": "Apt. 259"
+      },
+      {
+        "type": "DATE",
+        "value": "July 5, 2023"
+      }
+    ]
+  },
+  {
+    "id": "pii_0046",
+    "source_text": "Dear Roma_Altenwerth, your credit card ending in 7906933320437749 will be charged for amount 666,673.23\u20a9 for the course fee. For any disputes, reach us on +535-777.204.9743.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "USERNAME",
+        "value": "Roma_Altenwerth"
+      },
+      {
+        "type": "MASKEDNUMBER",
+        "value": "7906933320437749"
+      },
+      {
+        "type": "AMOUNT",
+        "value": "666,673.23"
+      },
+      {
+        "type": "PHONENUMBER",
+        "value": "+535-777.204.9743"
+      }
+    ]
+  },
+  {
+    "id": "pii_0047",
+    "source_text": "Dear Rocky, the results prove the efficacy of alternative medicine on people your age (40). For details, connect to Isobel_Aufderhar@gmail.com.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "FIRSTNAME",
+        "value": "Rocky"
+      },
+      {
+        "type": "AGE",
+        "value": "40"
+      },
+      {
+        "type": "EMAIL",
+        "value": "Isobel_Aufderhar@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": "pii_0048",
+    "source_text": "Dakota, congratulations on getting elected as our class president. Can you prepare a presentation on Time Management and present it at our upcoming meet at the 66952?",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "MIDDLENAME",
+        "value": "Dakota"
+      },
+      {
+        "type": "BUILDINGNUMBER",
+        "value": "66952"
+      }
+    ]
+  },
+  {
+    "id": "pii_0049",
+    "source_text": "Hey Alberta, we\u2019ve received your application for educational funding. Your fund application process is underway and you shall receive $0.4m once the process is completed.",
+    "masked_text": "",
+    "pii_entities": [
+      {
+        "type": "FIRSTNAME",
+        "value": "Alberta"
+      },
+      {
+        "type": "AMOUNT",
+        "value": "0.4m"
+      }
+    ]
+  }
+]
