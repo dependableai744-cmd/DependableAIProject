@@ -7,7 +7,7 @@
 
 ## What Is This Project?
 
-This project is about making AI question-answering systems safer when it comes to personal data. We built a privacy layer that prevents AI from accidentally leaking sensitive information like names, email addresses, phone numbers, or social security numbers.
+This project is about making RAG systems safer when it comes to personal data. We built a privacy layer that prevents AI from accidentally leaking sensitive information like names, email addresses, phone numbers, or social security numbers.
 
 Modern AI systems called **RAG (Retrieval-Augmented Generation)** work by searching through a collection of documents and using what they find to answer your questions. The problem is — if those documents contain private information, the AI will repeat that information back in its answers, even when it shouldn't.
 
@@ -56,7 +56,7 @@ privacy_rag_project/
 - Python 3.10 (via Anaconda or Miniconda)
 - ~5 GB free disk space
 - Internet connection (required for first run to download models and datasets)
-- NVIDIA GPU recommended, but not required
+- NVIDIA GPU recommended
 
 ---
 
@@ -81,6 +81,12 @@ ollama serve
 ```
 
 You should see: `Listening on 127.0.0.1:11434`
+
+**Note: Sometimes it may show below error 
+
+Error: listen tcp 127.0.0.1:11434: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+Just ignore it and proceed further it means Ollama is already running on your system.**
 
 ---
 
@@ -117,7 +123,7 @@ Replace the path with wherever you extracted the project files.
 pip install -r requirements.txt
 ```
 
-> Takes about 5–10 minutes. If `hipporag` or `raganything` fail to install on Windows, don't worry — the project automatically falls back to a simpler setup that still works for the demo.
+> Takes about 5–10 minutes.
 
 ---
 
@@ -191,22 +197,3 @@ Produces three charts saved to `results/plots/`:
 
 ---
 
-## Troubleshooting
-
-**"ollama: command not found"**  
-Restart your terminal after installing Ollama.
-
-**"Connection refused" errors**  
-Make sure `ollama serve` is running in a separate terminal window.
-
-**`hipporag` install fails**  
-Expected on Windows sometimes. The project falls back automatically and everything still works.
-
-**Dataset download fails**  
-Check your internet connection. HuggingFace occasionally rate-limits downloads — just retry.
-
-**Slow responses**  
-Normal when running on CPU. With an NVIDIA GPU, responses typically take 2–5 seconds each.
-
-**"spaCy model not found"**  
-Re-run: `python -m spacy download en_core_web_lg`
